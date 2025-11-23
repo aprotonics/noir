@@ -1,0 +1,6 @@
+[package]
+name = "noir_project"
+type = "bin"
+authors = [""]
+
+[dependencies]
