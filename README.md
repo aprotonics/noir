@@ -1,8 +1,7 @@
-# noir
+ Noir
 
 
-
-Todos
+## Todos
 
 nargo new project_name
 
@@ -13,6 +12,6 @@ edit prover.toml
 nargo execute
 
 
-Result
+## Result
 
 noir_project.gz
