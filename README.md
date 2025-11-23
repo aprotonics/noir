@@ -6,3 +6,5 @@ todos:
   edit prover.toml
   nargo execute
 
+result:
+  noir_project.gz
